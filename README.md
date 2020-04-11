@@ -13,7 +13,7 @@ Find the maximum number of errors intentionally made in the ListBoxer program. A
 2. `-` наименование ошибки
 3. P1, P2, P3, P4, P5 - приоритет исправления ошибки в порядке важности
 4. Серьезность ошибки:
-  >+ Blocker - 
+  >+ Blocker - проведение теста/работы заблокировано
   >+ Critical - сбой приложения, потеря данных
   >+ Major - серьезная потеря функциональности
   >+ Minor - незначительная потеря функциональности
@@ -24,6 +24,7 @@ Find the maximum number of errors intentionally made in the ListBoxer program. A
 
 6. Шаги воспроизведения:
   >`1)... ...`
+  >
   >`2)... ...`
 7. Ожидаемый результат:
 8. Фактический результат:
